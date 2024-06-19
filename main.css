@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    outline: none;
+    text-decoration: none;
+}
+
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    padding: 3rem;
+}
+
+
+.yozuv {
+    display: flex;
+    gap: 2rem;
+    flex-direction: column;
+    width: 521px;
+    padding: 0 2rem;
+}
+
+.yozuv h1 {
+    font-family: "Lexend", sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 54px;
+    letter-spacing: -0.05em;
+    text-align: left;
+    color: #1F2533;
+}
+
+
+.yozuv p {
+    font-family: "Lexend", sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+    text-align: left;
+    color: #1F2533;
+}
+
+
+.navbar2 h1 {
+    padding: 6rem 0;
+    align-items: center;
+    margin-left: 35%;
+    font-family: "Lexend", sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 54px;
+    letter-spacing: -0.05em;
+    text-align: left;
+    color: #1F2533;
+}
+
+
+.navbar3 {
+    display: flex;
+    gap: 3rem;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.pictures h1 {
+    font-family: "Lexend", sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 34px;
+    letter-spacing: -0.05em;
+    color: #1F2533;
+    margin-left: 2rem;
+}
+
+
+
+.pictures p {
+    font-family: "Lexend", sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+    text-align: center;
+    color: #1F2533;
+}
+
+
+.foter{
+    display: flex;
+    gap: 3rem;
+    padding: 5rem ;
+}
+
+
+.navbar4 h1 {
+    font-family: "Lexend", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24.95px;
+    letter-spacing: -0.035em;
+    color: #359740;
+}
+
+
+
+.navbar4 h2 {
+    font-family: "Lexend", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24.95px;
+    color: #70737C;
+}
